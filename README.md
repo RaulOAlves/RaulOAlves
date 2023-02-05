@@ -1,15 +1,13 @@
 <h1 align="center">Olá 👋, eu sou o Raul Oliveira Alves</h1>
 <h3 align="center">Apaixonado por ciência de dados, tecnologia e mundo digital.</h3>
 
-- 🔭 Atualmente estou trabalhando com análise e visualização de dados [Dashboard de Acidentes](http://encurtador.com.br/goxI6)
+- 🔭 Estou trabalhando com análise e visualização de dados [Dashboard de Acidentes](http://encurtador.com.br/goxI6)
 
-- 🌱 Atualmente estou aprendendo **Python, SQL e Power BI**
-
-- 💬 Me pergunte sobre **Power BI, SQL e Python**
+- 🌱 Estou aprendendo **Python, SQL e Power BI**
 
 - 📫 Você me acha através do email **raul.oliveira.alves@hotmail.com**
 
-- 📄 Atualmente tenho estudado e elaborados projetos em Python e Power BI, estou em processo de transição de carreira e tenho me especializado na área. Dou sempre o meu máximo para novos aprendizados e experiências, não sendo diferente nesta etapa. Apesar da formação em geologia tenho muita afinidade com tecnologias e análise de dados, principalmente ETL e modelagem de banco de dados. Na maioria das minhas experiências profissionais tive que lidar com situações que necessitaram dessas habilidades. [https://www.linkedin.com/in/raul-alves-4086b326/](https://www.linkedin.com/in/raul-alves-4086b326/)
+- 📄 Atualmente, estou em processo de especialização na área de dados e tenho estudado e trabalhado em projetos de Python e Power BI. Dou sempre o meu melhor para adquirir novos conhecimentos e experiências, e essa jornada não é exceção. Embora tenha formação em geologia, tenho uma forte paixão por tecnologias e análise de dados, especialmente ETL e modelagem de banco de dados. Em muitas de minhas experiências profissionais, tive a oportunidade de aplicar essas habilidades em situações desafiadoras.[https://www.linkedin.com/in/raul-alves-4086b326/](https://www.linkedin.com/in/raul-alves-4086b326/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
