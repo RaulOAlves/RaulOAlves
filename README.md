@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou o Raul Oliveira Alves</h1>
 <h3 align="center">Apaixonado por ciência de dados, tecnologia e mundo digital.</h3>
 
-- 🔭 Estou trabalhando com análise e visualização de dados [Dashboard de Acidentes](http://encurtador.com.br/goxI6)
+- 🔭 Estou trabalhando com análise e visualização de dados
 
 - 🌱 Estou aprendendo **Python, SQL e Power BI**
 
